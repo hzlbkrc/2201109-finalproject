@@ -6,6 +6,12 @@ This package is for the final project of AIN1001 by Fatma Hazal Bakırcı
 
 This package provides functionalities to calculate Simple Moving Averages (SMA) and Relative Strength Index (RSI) from given data. It includes modules for calculations (`calculations.py`) and file operations (`files.py`).
 
+# PYPI
+
+## Package
+
+[PYPI Package Link](https://pypi.org/project/hfpkg/)
+
 ## Installation
 
 ```bash
