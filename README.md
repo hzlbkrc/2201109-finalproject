@@ -9,7 +9,7 @@ This package provides functionalities to calculate Simple Moving Averages (SMA) 
 ## Installation
 
 ```bash
-pip install -e . !!!!!!!!!!!!!!!!!!!değiştirilecek
+pip install hfpkg
 ```
 
 # Usage
@@ -39,8 +39,8 @@ write_to_csv(rsi, 'output_rsi.csv')
 ## Running Tests
 
 ```bash
-python -m unittest my_package.test.test_calculations
-python -m unittest my_package.test.test_files
+python -m unittest hfpkg.test.test_calculations
+python -m unittest hfpkg.test.test_files
 ```
 
 # Project Structure
